@@ -1,5 +1,3 @@
-<a href="https://totaltypescript.com/"><img src="https://res.cloudinary.com/total-typescript/image/upload/v1699022610/book-github-banner_2x_z1ahit.png" alt="Total TypeScript by Matt Pocock" /></a>
-
 ## Quickstart
 
 ### Install PNPM
@@ -38,8 +36,6 @@ You'll know if you've succeeded because the tests will pass.
 **If you succeed**, or **if you get stuck**, unpause the video and check out the `*.solution`. You can see if your solution is better or worse than mine!
 
 ## Acknowledgements
-
-Say thanks to Matt on [Twitter](https://twitter.com/mattpocockuk) or by joining his [Discord](https://discord.gg/8S5ujhfTB3). Consider signing up to his [Total TypeScript course](https://totaltypescript.com).
 
 ## Reference
 
